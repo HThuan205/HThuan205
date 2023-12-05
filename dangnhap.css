@@ -1,0 +1,73 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box{
+    width: 360px;
+    height: 800px;
+    border: 1px solid gray;
+    background-image: url("background-hinh-dong-troi-xanh_032850170.gif");
+
+}
+.box1{
+    margin-top: 149px;
+    margin-left: 82px;
+    width: 194px;
+    height: 56px;
+    border: 1px ;
+    flex-direction: column;
+
+}
+.box2{
+    margin-top: 100px;
+    height: 48px;
+    width: 100%;
+    border: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.username{
+    height: 48px;
+    width: 85%;
+    border-radius: 10px;
+}
+.box3{
+    margin-top: 25px;
+    height: 48px;
+    width: 100%;
+    border: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+.font{
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+}
+.box4{
+    margin-top: 30px;
+    margin-left: 24px;
+    height: 48px;
+    width: 312px;
+    border: 1px solid #0E64DE;
+    border-radius: 5px;
+    background-color: #0E64DE;
+    color: rgb(0, 247, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box5{
+    margin-top: -5px;
+    height: 0px;
+    width: 0px;
+    background-color: #0E64DE;
+    color: rgb(221, 251, 252);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
